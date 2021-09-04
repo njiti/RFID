@@ -1,0 +1,19 @@
+{
+  "name": "rfid",
+  "version": "1.0.0",
+  "description": "Download the librarby. Then follow the illustrations given in the tutorial for Security System using RFID (hackster.io/Aritro)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njiti/RFID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njiti/RFID/issues"
+  },
+  "homepage": "https://github.com/njiti/RFID#readme"
+}
